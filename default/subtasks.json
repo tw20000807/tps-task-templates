@@ -6,11 +6,13 @@
         "samples": {
             "index": 0,
             "score": 0,
+            "text": "範例輸入輸出",
             "validators": []
         },
-        "subtask_01": {
+        "full": {
             "index": 1,
             "score": 100,
+            "text": "無額外限制",
             "validators": []
         }
     }

@@ -1,6 +1,8 @@
 {
+	"contest_name": "TODO: 競賽名稱",
+	"problem_label": "TODO: (A-Z)",
 	"name": "TODO:_English_short_name",
-	"code": "TODO",
+	"code": "TODO:_English_short_name",
 	"title": "TODO: 題目名稱",
 	"memory_limit": 512,
 	"time_limit": 1.0,
@@ -8,6 +10,7 @@
 	"description": "",
 	"has_grader": false,
 	"has_checker": false,
+	"has_manager": false,
 	"feedback_level": "full",
 	"max_submission_number": null,
 	"max_user_test_number": null,
